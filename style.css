@@ -1,0 +1,142 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans|Playfair+Display+SC');
+
+
+@import url(https://unpkg.com/@webpixels/css@1.1.5/dist/index.css);
+
+/* Bootstrap Icons */
+@import url("https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.4.0/font/bootstrap-icons.min.css");
+
+
+
+iframe {
+   border: none;
+}
+
+
+* {
+   box-sizing: border-box;
+   font-family: Arial, sans-serif;
+   margin:0;
+}
+
+body{
+   color:#555555;
+   background-image: url(stm.png) ;
+			background-position: center center;
+			background-repeat:  no-repeat;
+			background-attachment: fixed;
+			background-size:  cover;
+			background-color: #999;
+  
+}
+
+
+div, body{
+  margin: 0;
+  padding: 0;
+  font-family: exo, sans-serif;
+  
+}
+
+label{
+   display: block;
+   font-size: 14px;
+   font-weight: bold;
+   margin-bottom: px;
+   margin-top: 20px;
+}
+
+h1{
+   font: normal 4em 'Playfair Display SC', serif;
+   text-align:center;
+   color: aliceblue;
+}
+h2.title{
+   margin-top: 10px;
+}
+
+.tip{
+   display: block;
+   font-size: small;
+   margin-bottom: 40px;
+}
+
+.formContainer,
+.dashboardContainer{
+   background-color: #ffffff;
+   border:10px solid rgba(8,35,172,0.2);
+   border-radius: 20px;
+   min-height: 550px;
+   padding: 20px;
+   width:350px;
+   margin:100px auto;
+}
+
+input[type=text],
+input[type=password]{
+   border: 1px solid #cccccc;
+   border-radius: 5px;
+   height:40px;
+   padding: 0 10px;
+   outline-color: rgba(8,35,172,0.8);
+   width: 100%;
+}
+.dashboardContainer{
+   width: 850px;
+}
+
+input[type=submit]{
+   background-color: #5823b2;
+   border:none;
+   border-radius: 5px;
+   color:#ffffff;
+   height: 40px;
+   margin-top: 30px;
+   width:100%;
+   cursor: pointer;
+}
+input[type=submit]:hover{
+   opacity: 0.7;
+}
+
+.link{
+   font-size: small;
+   margin-top: 30px;
+   text-align: center;
+}
+
+/*a{
+   color: #5823b2;
+   font-weight: bold;
+   text-decoration: none;
+}*/
+
+.avatar img{
+   width: 100px;
+}
+
+.welcomeMessage{
+   margin-top: 20px;
+}
+
+.notes{
+   font-style: italic;
+   margin-bottom: 30px;
+}
+
+.errorMsg{
+   font-size: small;
+   background-color: #ff7979;
+   color: #ffffff;
+   border-radius: 5px;
+   padding:10px;
+}
+
+.successMsg{
+   font-size: small;
+   background-color: #2ecc71;
+   color: #ffffff;
+   border-radius: 5px;
+   padding:10px;
+}
+
