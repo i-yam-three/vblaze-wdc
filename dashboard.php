@@ -176,7 +176,7 @@ if(!isset($_SESSION['user'])){
         <section class="section">
           <center>
           <h1>DAY 2</h1>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/B-AnAQnNkSk?modestbranding=1" title="YouTube video player" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe width="100%" height="315" src="https://www.youtube.com/embed/B-AnAQnNkSk?modestbranding=1" title="YouTube video player" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
           <p>HTML</p>
           <a href="https://surveyheart.com/form/636f36d4b85f9f7c469be0c0"><button style="background-color: #9174d8;"><h5>FEEDBACK</h5></button></a>
           </center>
@@ -185,7 +185,7 @@ if(!isset($_SESSION['user'])){
         <section class="section">
           <center>
           <h1>DAY 3</h1>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/S0qIiXs3MeE" title="YouTube video player" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe width="100%" height="315" src="https://www.youtube.com/embed/S0qIiXs3MeE" title="YouTube video player" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
           <p>CSS</p>
           <a href="https://surveyheart.com/form/636f36e170f5d478fbab161b"><button style="background-color: #9174d8;"><h5>FEEDBACK</h5></button></a>
           </center>
@@ -194,7 +194,7 @@ if(!isset($_SESSION['user'])){
         <section class="section">
           <center>
           <h1>DAY 4</h1>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/4g7EG84KC3k?modestbranding=1" title="YouTube video player" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe width="100%" height="315" src="https://www.youtube.com/embed/4g7EG84KC3k?modestbranding=1" title="YouTube video player" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
           <a href="https://surveyheart.com/form/636f370270f5d478fbab182c"><button style="background-color: #9174d8;"><h5>FEEDBACK</h5></button></a>
           </center>
@@ -204,7 +204,7 @@ if(!isset($_SESSION['user'])){
         <section class="section">
           <center>
           <h1>DAY 5</h1>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/fnTs-daHqyw?modestbranding=1" title="YouTube video player" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe width="100%" height="315" src="https://www.youtube.com/embed/fnTs-daHqyw?modestbranding=1" title="YouTube video player" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
           <a href="https://surveyheart.com/form/636f370ce5fab37a9bae6a5a"><button style="background-color: #9174d8;"><h5>FEEDBACK</h5></button></a>
           </center>
