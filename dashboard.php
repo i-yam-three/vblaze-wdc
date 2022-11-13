@@ -161,7 +161,7 @@ if(!isset($_SESSION['user'])){
           </div>
         </header>
         <h1>Hey 👋, Waiting for Blaze️‍🔥</h1>
-        <!-- <section class="section">
+         <section class="section">
           <center>
           <h1>DAY 1</h1>
         <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/DDd_PIuT4RA?modestbranding=1" title="YouTube video player" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -172,7 +172,7 @@ if(!isset($_SESSION['user'])){
           <a href="https://surveyheart.com/form/636f36d4b85f9f7c469be0c0"><button style="background-color: #9174d8;"><h5>FEEDBACK</h5></button></a>
           </center>
         </section>
-        <br />
+      <!--  <br />
         <section class="section">
           <center>
           <h1>DAY 2</h1>
