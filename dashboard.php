@@ -164,7 +164,7 @@ if(!isset($_SESSION['user'])){
          <section class="section">
           <center>
           <h1>DAY 1</h1>
-        <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/DDd_PIuT4RA?modestbranding=1" title="YouTube video player" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/DDd_PIuT4RA?modestbranding=1" title="YouTube video player" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
           <p>Windows Installation
             <br><a href="https://youtu.be/VFsYmO0HIQw">Linux</a>
             <br><a href="https://youtu.be/JoR8ap1URrU">Mac</a>
