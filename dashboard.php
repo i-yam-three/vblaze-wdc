@@ -793,7 +793,7 @@ COLLEGE WEBSITE
             </li>
           </ul>
           <div class="banner">
-            <a href="mminhajmahroof@oksbi"> <h3 class="banner__title">Premium access</h3></a>
+            <a href="upi://pay?pa=mminhajmahroof@oksbi&pn=SenderName&tn=TestingGpay&am=50&cu=INR"> <h3 class="banner__title">Premium access</h3></a>
             <p class="banner__description">50Rs - Create teams without limits</p>
             <button class="banner__button" type="button">
               Get Premium Access
