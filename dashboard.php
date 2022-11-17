@@ -274,7 +274,7 @@ COLLEGE WEBSITE
 
 
         </section>
-        <a href="https://www.udemy.com/course/html-javascript-bootstrap-certification-course/?ranMID=39197&ranEAID=KLBDeI3Y*Vs&ranSiteID=KLBDeI3Y.Vs-q5gaANZkVjKmV4BgT8QWbQ&LSNPUBID=KLBDeI3Y*Vs&utm_source=aff-campaign&utm_medium=udemyads&couponCode=YOUACCEL59794"><button><h5>LIMITED - FREE UDAMY COURSE</h5></button></a>
+        <a href="https://
        <center><h1>VBLAZE WDC</h1></center>
         <section class="section">
           <center>
@@ -290,7 +290,7 @@ COLLEGE WEBSITE
         <br />
         <section class="section">
           <center>
-       <!--   <h1>DAY 2</h1>
+       <h1>DAY 2</h1>
         <iframe width="100%" height="315" src="https://www.youtube.com/embed/B-AnAQnNkSk?modestbranding=1" title="YouTube video player" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
              <a href="https://youtu.be/o1HYsdwvFEI"><p>Assignment 2 - Click Here</p></a>
           <a href="https://surveyheart.com/form/636f36e170f5d478fbab161b"><button style="background-color: #9174d8;"><h5>FEEDBACK</h5></button></a>
@@ -320,7 +320,7 @@ COLLEGE WEBSITE
 
         <section class="section">
           <center>
-          <h1>DAY 5</h1>
+        <!--  <h1>DAY 5</h1>
         <iframe width="100%" height="315" src="https://www.youtube.com/embed/fnTs-daHqyw?modestbranding=1" title="YouTube video player" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
           <a href="https://surveyheart.com/form/636f370ce5fab37a9bae6a5a"><button style="background-color: #9174d8;"><h5>FEEDBACK</h5></button></a>
