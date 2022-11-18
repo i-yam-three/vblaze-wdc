@@ -322,7 +322,7 @@ COLLEGE WEBSITE
           <center>
         <h1>DAY 5</h1>
         <iframe width="100%" height="315" src="https://www.youtube.com/embed/fnTs-daHqyw?modestbranding=1" title="YouTube video player" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<a href="https://www.softwaretestinghelp.com/responsive-web-design-testing-guide/amp/> <p> BOOTSTRAP ARTICLE - CLICK HERE </p> </a>
           <a href="https://surveyheart.com/form/6376dc7838b25518fedd8c44"><button style="background-color: #9174d8;"><h5>FEEDBACK</h5></button></a>
           </center>
         </section>
