@@ -351,6 +351,18 @@ COLLEGE WEBSITE
           </center>
 
         </section>
+        
+                <h1>DAY 7</h1>
+
+        <h5>Website Hosting !</h5>
+
+        <iframe width="100%" height="315" src="https://www.youtube.com/embed/rpz1fKAgN1M?modestbranding=1" title="YouTube video player" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+          <a href="https://www.geeksforgeeks.org/types-of-web-hosting/"><button style="background-color: white; color: black; border: 2px solid #4CAF50;"><h5>RESOURCES</h5></button></a>
+
+          
+
+           <a href="https://surveyheart.com/form/637980aa0e707b41bc99629f"><button style="background-color: white; color: black; border: 2px solid #4CAF50;"><h5>FEEDBACK</h5></button></a>
 
         <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQN_quneiiq7fYTUh7EpKsNmhZQ6RHr956ZK12BeY0JIvCOSstfA59bA03NF2Rfip3q0MDkUpghlBie/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" height="500cm" width="100%"></iframe>        <section class="section">
           <header class="section__header">
