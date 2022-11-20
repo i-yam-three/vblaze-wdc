@@ -351,7 +351,8 @@ COLLEGE WEBSITE
           </center>
 
         </section>
-        
+        <section>
+        <center>
                 <h1>DAY 7</h1>
 
         <h5>Website Hosting !</h5>
@@ -363,6 +364,9 @@ COLLEGE WEBSITE
           
 
            <a href="https://surveyheart.com/form/637980aa0e707b41bc99629f"><button style="background-color: white; color: black; border: 2px solid #4CAF50;"><h5>FEEDBACK</h5></button></a>
+</center>
+</section>
+
 
         <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQN_quneiiq7fYTUh7EpKsNmhZQ6RHr956ZK12BeY0JIvCOSstfA59bA03NF2Rfip3q0MDkUpghlBie/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" height="500cm" width="100%"></iframe>        <section class="section">
           <header class="section__header">
