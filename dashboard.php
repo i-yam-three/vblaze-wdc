@@ -278,8 +278,12 @@ COLLEGE WEBSITE
        <center><h1>VBLAZE WDC</h1></center>
         <section class="section">
           <center>
-                                           <a href="https://drive.google.com/drive/folders/1k02gWKjC0CyaGe--M739KnOs0Ev0W4Kq"><button class="button" style="background-color: white; color: black; border: 2px solid #4CAF50;"><h5>TEMPLATE</h5></button></a>
-          <h1>DAY 1</h1>
+                                           <a href="https://drive.google.com/drive/folders/1k02gWKjC0CyaGe--M739KnOs0Ev0W4Kq"><button class="button" style="background-color: white; color: black; border: 2px solid #4CAF50;"><h5>PORTFOLIO TEMPLATE</h5></button></a>
+                                           <a href="https://drive.google.com/file/d/1NyJd3JhgpKk_wDjJ7S50-V_PXqGJ9yxp/view?usp=sharing"><button class="button" style="background-color: white; color: black; border: 2px solid #4CAF50;"><h5>TEMPLATE 2</h5></button></a>
+                                           <a href="https://drive.google.com/file/d/1Sh6KIphWwcCLqxVz0IeoAje5Vps0lr3z/view?usp=sharing"><button class="button" style="background-color: white; color: black; border: 2px solid #4CAF50;"><h5>TEMPLATE 3</h5></button></a>
+                                           <a href="https://drive.google.com/file/d/182gRFbMLAnAU5O8FDL_aFSnpDbG-Tih8/view?usp=sharing"><button class="button" style="background-color: white; color: black; border: 2px solid #4CAF50;"><h5>TEMPLATE 4</h5></button></a>
+
+<h1>DAY 1</h1>
         <iframe width="100%" height="315" src="https://www.youtube.com/embed/sEAyggVL9tw?modestbranding=1" title="YouTube video player" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
           <b><p style="font-size: 16px;"><a href="https://youtu.be/DDd_PIuT4RA">Windows Installation - Click Here</a>
             <br><a href="https://youtu.be/VFsYmO0HIQw">Linux Installation Click Here</a>
